@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a Full Stack Engineer / Solutions Architect
 ### What I can do.
-Mission-driven full-stack Developer/ Systems Architect with several years of experience. I have a wide range of knowledge in various Back-end languages, Frameworks, Databases, Algorithms, Designs, and best code practices. get in touch if you have tasks/challenges to complete.
+Mission-driven full-stack Developer/ Systems Architect with several years of experience. I have a wide range of knowledge in various Back-end languages, Frontend Frameworks, Databases, Algorithms, Designs, and best code practices. get in touch if you have tasks/challenges to complete.
 
 
 📫 How to reach me: ... ashutosh@malve.me
